@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Pedro (Peu)
+# 👋 Opá! Me chamo João Pedro (Peu)
 
 🎓 Estudante de **Ciência da Computação** na **CESAR School**  
 💻 Desenvolvedor com foco em **Python**, **JavaScript**, **HTML** e **CSS**  
