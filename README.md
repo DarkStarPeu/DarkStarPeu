@@ -18,7 +18,9 @@
 
 - **Linguagens:**  
   🔹 Python  
-  🔹 JavaScript  
+  🔹 JavaScript
+  🔹 CSS
+  🔹 HTML
 
 - **Interesses atuais:**  
   🔸 Desenvolvimento web  
