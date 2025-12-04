@@ -1,7 +1,7 @@
-# 👋 Opá! Eu sou o João Pedro (Peu)
+# 👋 Olá! Eu sou o João Pedro (Peu)
 
 🎓 Estudante de **Ciência da Computação** na **CESAR School**  
-💻 Desenvolvedor com foco em **Python** e **JavaScript**  
+💻 Desenvolvedor com foco em **Python**, **JavaScript**, **HTML** e **CSS**  
 🚀 Sempre aprendendo, criando e explorando novos desafios no mundo da tecnologia
 
 ---
@@ -9,7 +9,7 @@
 ## ✨ Sobre mim
 
 - 👾 Apaixonado por resolver problemas e construir coisas legais com código  
-- 📘 Atualmente explorando conceitos fundamentais de programação, estruturas de dados e desenvolvimento web  
+- 📘 Atualmente explorando fundamentos de programação, desenvolvimento web e boas práticas  
 - 🔍 Buscando sempre evoluir como desenvolvedor e colaborar em projetos interessantes
 
 ---
@@ -18,13 +18,13 @@
 
 - **Linguagens:**  
   🔹 Python  
-  🔹 JavaScript
-  🔹 CSS
-  🔹 HTML
+  🔹 JavaScript  
+  🔹 HTML  
+  🔹 CSS  
 
 - **Interesses atuais:**  
   🔸 Desenvolvimento web  
-  🔸 Automação  
+  🔸 Jogos Digitais 
   🔸 Projetos acadêmicos e experimentos
 
 ---
